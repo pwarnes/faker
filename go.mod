@@ -1,1 +1,1 @@
-module "github.com/dmgk/faker"
+module github.com/pwarnes/faker
